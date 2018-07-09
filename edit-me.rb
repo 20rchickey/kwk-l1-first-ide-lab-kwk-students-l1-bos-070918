@@ -1,2 +1,2 @@
-"Hey Boston how are you"
+puts"Hey Boston how are you"
 
